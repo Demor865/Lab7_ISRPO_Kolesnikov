@@ -73,7 +73,7 @@ namespace Lab07
             }
             Console.Write("В обратном порядке: ");
             for (int i = 4; i >= 0; i--) Console.Write(nums[i] + " ");
-            
+
             int evenCount = 0;
             foreach (int n in nums)
             {
